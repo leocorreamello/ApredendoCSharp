@@ -1,0 +1,7 @@
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\bin\Debug\6-ValoresNaoReferenciais.exe.config
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\bin\Debug\6-ValoresNaoReferenciais.exe
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\bin\Debug\6-ValoresNaoReferenciais.pdb
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\obj\Debug\6-ValoresNaoReferenciais.csproj.AssemblyReference.cache
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\obj\Debug\6-ValoresNaoReferenciais.csproj.CoreCompileInputs.cache
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\obj\Debug\6-ValoresNaoReferenciais.exe
+C:\Users\leome\source\repos\AprendendoCSharp\6-ValoresNaoReferenciais\obj\Debug\6-ValoresNaoReferenciais.pdb
