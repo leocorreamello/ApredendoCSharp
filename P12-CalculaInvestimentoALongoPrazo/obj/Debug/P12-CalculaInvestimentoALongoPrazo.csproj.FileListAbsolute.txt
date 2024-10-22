@@ -1,0 +1,7 @@
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\bin\Debug\P12-CalculaInvestimentoALongoPrazo.exe.config
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\bin\Debug\P12-CalculaInvestimentoALongoPrazo.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\bin\Debug\P12-CalculaInvestimentoALongoPrazo.pdb
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.pdb
