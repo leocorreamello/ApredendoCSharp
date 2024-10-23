@@ -1,0 +1,7 @@
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\bin\Debug\P-DasafioFatorial.exe.config
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\bin\Debug\P-DasafioFatorial.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\bin\Debug\P-DasafioFatorial.pdb
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\obj\Debug\P-DasafioFatorial.csproj.AssemblyReference.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\obj\Debug\P-DasafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\obj\Debug\P-DasafioFatorial.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DasafioFatorial\obj\Debug\P-DasafioFatorial.pdb

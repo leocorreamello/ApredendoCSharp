@@ -1,0 +1,7 @@
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\bin\Debug\P-DesafioRestoDaDivisao.exe.config
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\bin\Debug\P-DesafioRestoDaDivisao.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\bin\Debug\P-DesafioRestoDaDivisao.pdb
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\obj\Debug\P-DesafioRestoDaDivisao.csproj.AssemblyReference.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\obj\Debug\P-DesafioRestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\obj\Debug\P-DesafioRestoDaDivisao.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P-DesafioRestoDaDivisao\obj\Debug\P-DesafioRestoDaDivisao.pdb

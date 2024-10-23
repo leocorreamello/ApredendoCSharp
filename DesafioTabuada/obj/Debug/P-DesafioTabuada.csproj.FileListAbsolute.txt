@@ -1,0 +1,7 @@
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\bin\Debug\DesafioTabuada.exe.config
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\bin\Debug\DesafioTabuada.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\bin\Debug\DesafioTabuada.pdb
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\obj\Debug\P-DesafioTabuada.csproj.AssemblyReference.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\obj\Debug\P-DesafioTabuada.csproj.CoreCompileInputs.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\obj\Debug\DesafioTabuada.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\DesafioTabuada\obj\Debug\DesafioTabuada.pdb

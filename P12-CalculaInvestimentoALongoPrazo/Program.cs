@@ -15,10 +15,14 @@ namespace P12_CalculaInvestimentoALongoPrazo
             double fatorRendimento = 1.0036;
             double valorInvestido = 1000;
 
-            for (int i = 1; i <= 12; i++)
+            //Fazendo um investimento a 
+            for (int i = 1; i <= 5; i++)
             {   
-                valorInvestido *= fatorRendimento;
-                Console.WriteLine("Após " + i + " meses, você terá R$ " + valorInvestido);
+                for (int mes = 1; mes <= 12; mes++)
+                {
+                    valorInvestido *= fatorRendimento;
+                }
+                Console.WriteLine("Após " + i + " anos, você terá R$ " + valorInvestido);
                 fatorRendimento += 0.0010;
             }
 

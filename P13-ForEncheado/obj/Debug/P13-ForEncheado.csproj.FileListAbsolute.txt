@@ -1,0 +1,7 @@
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\bin\Debug\P13-ForEncheado.exe.config
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\bin\Debug\P13-ForEncheado.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\bin\Debug\P13-ForEncheado.pdb
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\obj\Debug\P13-ForEncheado.csproj.AssemblyReference.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\obj\Debug\P13-ForEncheado.csproj.CoreCompileInputs.cache
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\obj\Debug\P13-ForEncheado.exe
+C:\Users\lemello\OneDrive - EDENRED\Área de Trabalho\code\Alura\CSharpPrimeirosPassos\CSharpPrimeirosPassos\P13-ForEncheado\obj\Debug\P13-ForEncheado.pdb
